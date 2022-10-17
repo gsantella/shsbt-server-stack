@@ -6,6 +6,7 @@
 - DNS Server - 172.17.0.51
 - vCenter - 172.17.25.100
 - Subnet - 172.17.0.0/19 = 172.17.0.0 - 172.17.31.255
+- DHCP Range - 172.17.24.x??
 
 # Server List
 
