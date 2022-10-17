@@ -24,3 +24,7 @@
 # Improvements
 
 - Complete this on your own
+
+# VM Naming Convention
+
+- WinDoug, LinuxTy
