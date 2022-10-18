@@ -24,7 +24,9 @@
 
 # Improvements
 
+- Ty Server needs auto power on from AC power loss
 - Complete this on your own
+- 
 
 # VM Naming Convention
 
